@@ -6728,7 +6728,7 @@
                 <LastModifiedDate>2017-12-11T10:02:29.000+0000</LastModifiedDate>
                 <Apttus_Revenue2__DefaultScale__c>4</Apttus_Revenue2__DefaultScale__c>
                 <Apttus_Revenue2__IgnoreLeapYearForRevenueRecognition__c>true</Apttus_Revenue2__IgnoreLeapYearForRevenueRecognition__c>
-                <Apttus_Revenue2__InstanceUrl__c>https://na73.salesforce.com</Apttus_Revenue2__InstanceUrl__c>
+                <Apttus_Revenue2__InstanceUrl__c>https://na35.salesforce.com</Apttus_Revenue2__InstanceUrl__c>
                 <Apttus_Revenue2__MaxBatchIteratorSize__c>10000</Apttus_Revenue2__MaxBatchIteratorSize__c>
                 <Apttus_Revenue2__ProcessRevenueForClosedPeriods__c>true</Apttus_Revenue2__ProcessRevenueForClosedPeriods__c>
                 <Apttus_Revenue2__RevenueRecordTypes__c>APTS_Revenue</Apttus_Revenue2__RevenueRecordTypes__c>
